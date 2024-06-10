@@ -1,6 +1,6 @@
-#alpine
-#python:alpine3.19
-#kasmweb/nginx:1.25.3
+alpine
+python:alpine3.19
+kasmweb/nginx:1.25.3
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.1
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.0 
 ghcr.io/home-assistant/aarch64-hassio-cli:2024.05.0
