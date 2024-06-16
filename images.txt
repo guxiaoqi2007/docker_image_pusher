@@ -1,6 +1,7 @@
 alpine
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.2
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.3
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.6.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.4.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
