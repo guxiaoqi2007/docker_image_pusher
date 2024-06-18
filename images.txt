@@ -3,8 +3,8 @@ ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.2
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.3
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.4.1
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.6.1
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.4.1
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.12.1
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.12.4
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.0 
 ghcr.io/home-assistant/aarch64-hassio-cli:2024.05.0
