@@ -1,4 +1,5 @@
 alpine
+nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.3.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.1
