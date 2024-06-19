@@ -1,4 +1,5 @@
 alpine
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.3.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.2
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.3
