@@ -1,5 +1,5 @@
 alpine
-ghcr.io/blakeblackshear/frigate:stable-rk
+--platform linux/arm64 ghcr.io/blakeblackshear/frigate:stable-rk
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.3.1
