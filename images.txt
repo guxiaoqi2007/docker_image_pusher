@@ -1,4 +1,5 @@
 alpine
+xiaoyaliu/alist:latest
 --platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-beta2-rk
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
