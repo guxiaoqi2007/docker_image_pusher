@@ -1,4 +1,5 @@
 alpine
+ghcr.io/hassio-addons/node-red/aarch64:18.0.0
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 xiaoyaliu/alist:latest
 --platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-beta2-rk
@@ -15,7 +16,6 @@ ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.0 
 ghcr.io/home-assistant/aarch64-hassio-cli:2024.05.0
 ghcr.io/hassio-addons/adguard/aarch64:5.1.1
-ghcr.io/hassio-addons/node-red/aarch64:17.0.13
 ghcr.io/home-assistant/aarch64-hassio-dns:2024.04.0
 ghcr.io/home-assistant/aarch64-hassio-multicast:2024.03.0
 ghcr.io/home-assistant/aarch64-hassio-audio:2023.12.0
