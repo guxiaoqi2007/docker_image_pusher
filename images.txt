@@ -2,7 +2,7 @@ alpine
 ghcr.io/hassio-addons/node-red/aarch64:18.0.0
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 xiaoyaliu/alist:latest
---platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-beta2-rk
+--platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-beta3-rk
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.4
