@@ -1,6 +1,6 @@
 alpine
-ghcr.io/home-assistant-libs/python-matter-server:6.1.2
-homeassistant/aarch64-addon-matter-server:6.1.2
+ghcr.io/home-assistant-libs/python-matter-server:6.2.1
+homeassistant/aarch64-addon-matter-server:6.2.1
 ghcr.io/hassio-addons/node-red/aarch64:18.0.0
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 xiaoyaliu/alist:latest
