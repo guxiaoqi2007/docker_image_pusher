@@ -1,4 +1,5 @@
 --platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:1.6.0-75
+--platform linux/arm64 ghcr.io/music-assistant/server:2.1.0b15
 ailg/alist:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.7.2
 ghcr.io/home-assistant-libs/python-matter-server:6.2.1
