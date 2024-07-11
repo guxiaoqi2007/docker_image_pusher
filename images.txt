@@ -1,5 +1,6 @@
+ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:1.6.0-75
 ailg/alist:latest
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.7.3
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.7.2
 ghcr.io/home-assistant-libs/python-matter-server:6.2.1
 homeassistant/aarch64-addon-matter-server:6.2.1
 ghcr.io/hassio-addons/node-red/aarch64:18.0.4
