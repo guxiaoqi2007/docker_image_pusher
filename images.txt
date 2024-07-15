@@ -1,9 +1,9 @@
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.1.1
 --platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:1.6.0-75
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.4.1 
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:1.39.0-1
 --platform linux/arm64 ghcr.io/music-assistant/server:2.1.0b15
 ailg/alist:latest
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.7.2
 ghcr.io/home-assistant-libs/python-matter-server:6.2.1
 homeassistant/aarch64-addon-matter-server:6.2.1
 ghcr.io/hassio-addons/node-red/aarch64:18.0.4
