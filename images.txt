@@ -1,4 +1,4 @@
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.1.1
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.7.3
 --platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:1.6.0-75
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.4.1 
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:1.39.0-1
@@ -11,7 +11,6 @@ ghcr.io/hassio-addons/node-red/aarch64:18.0.4
 --platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-beta3-rk
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.4.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.2 
 ghcr.io/home-assistant/aarch64-hassio-cli:2024.05.0
