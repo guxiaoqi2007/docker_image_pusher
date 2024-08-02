@@ -1,4 +1,5 @@
 homeassistant/aarch64-addon-mosquitto:6.4.1
+--platform linux/arm64 nyanmisaka/jellyfin:latest-rockchip
 homeassistant/aarch64-addon-mariadb:2.7.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.7.3
 --platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:1.6.0-75
