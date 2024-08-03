@@ -12,7 +12,7 @@ ghcr.io/home-assistant-libs/python-matter-server:6.2.1
 homeassistant/aarch64-addon-matter-server:6.2.1
 ghcr.io/hassio-addons/node-red/aarch64:18.0.4
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
---platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-beta4-rk
+--platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-rc2-rk
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
