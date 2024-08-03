@@ -1,4 +1,4 @@
---platform linux/arm64 2fauth/2fauth
+--platform linux/arm64 2fauth/2fauth:4.2.4
 homeassistant/aarch64-addon-mosquitto:6.4.1
 --platform linux/arm64 nyanmisaka/jellyfin:latest-rockchip
 homeassistant/aarch64-addon-mariadb:2.7.1
