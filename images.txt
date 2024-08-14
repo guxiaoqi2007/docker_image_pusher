@@ -1,22 +1,22 @@
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.8.0
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.08.0
 --platform linux/arm64 ghcr.io/music-assistant/server:2.2.0b3
 --platform linux/arm64 2fauth/2fauth:4.2.4
 --platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.0-rk
 homeassistant/aarch64-addon-mosquitto:6.4.1
 --platform linux/arm64 nyanmisaka/jellyfin:latest-rockchip
 homeassistant/aarch64-addon-mariadb:2.7.1
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.8.0
---platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:1.6.0-75
+--platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:2.6.0-115
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.4.1 
---platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:1.39.0-1
+--platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:1.39.1-1
 ailg/alist:latest
-ghcr.io/home-assistant-libs/python-matter-server:6.2.1
-homeassistant/aarch64-addon-matter-server:6.2.1
+ghcr.io/home-assistant-libs/python-matter-server:6.4.1
+homeassistant/aarch64-addon-matter-server:6.4.1
 ghcr.io/hassio-addons/node-red/aarch64:18.0.4
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
-ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.2 
+ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage 
 ghcr.io/home-assistant/aarch64-hassio-cli:2024.07.0
 ghcr.io/hassio-addons/adguard/aarch64:5.1.1
 ghcr.io/home-assistant/aarch64-hassio-dns:2024.04.0
