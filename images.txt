@@ -11,8 +11,6 @@ homeassistant/aarch64-addon-mariadb:2.7.1
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.4.1 
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:1.39.1-1
 ailg/alist:latest
-ghcr.io/home-assistant-libs/python-matter-server:6.3.1
-homeassistant/aarch64-addon-matter-server:6.3.1
 ghcr.io/hassio-addons/node-red/aarch64:18.0.5
 nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
