@@ -1,3 +1,4 @@
+rustdesk/rustdesk-server:latest
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.8.1
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.08.0
