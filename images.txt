@@ -2,7 +2,7 @@ ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.10.2
 --platform linux/arm64 ghcr.io/music-assistant/server:2.3.0b23
 rustdesk/rustdesk-server:latest
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.09.1
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.10.0
 --platform linux/arm64 2fauth/2fauth:4.2.4
 --platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.14.1-rk
 homeassistant/aarch64-addon-mosquitto:6.4.1
