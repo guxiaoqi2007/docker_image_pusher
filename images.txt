@@ -14,7 +14,6 @@ homeassistant/aarch64-addon-mariadb:2.7.1
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:1.39.1-1
 ailg/alist:latest
 ghcr.io/hassio-addons/node-red/aarch64:18.1.1
-nyanmisaka/jellyfin:240220-amd64-legacy
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage 
 ghcr.io/home-assistant/aarch64-hassio-cli:2024.09.0
