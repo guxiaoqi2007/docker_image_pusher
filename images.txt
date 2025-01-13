@@ -1,8 +1,9 @@
---platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:2.0.0-1
+--platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:2.0.0-2
+homeassistant/aarch64-addon-ssh:9.15.0
 homeassistant/aarch64-addon-matter-server:6.6.0
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.12.3
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.1.0
---platform linux/arm64 ghcr.io/music-assistant/server:2.4.0b8
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.1.2
+--platform linux/arm64 ghcr.io/music-assistant/server:2.4.0b12
 rustdesk/rustdesk-server:latest
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 --platform linux/arm64 2fauth/2fauth:4.2.4
