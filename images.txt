@@ -3,7 +3,7 @@ homeassistant/aarch64-addon-ssh:9.16.0
 homeassistant/aarch64-addon-matter-server:7.0.0
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.02.1
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.2.5
---platform linux/arm64 ghcr.io/music-assistant/server:2.4.0rc7
+--platform linux/arm64 ghcr.io/music-assistant/server:2.5.0b1
 rustdesk/rustdesk-server:latest
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 --platform linux/arm64 2fauth/2fauth:4.2.4
