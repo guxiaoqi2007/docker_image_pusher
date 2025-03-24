@@ -16,9 +16,9 @@ ailg/alist:latest
 ghcr.io/hassio-addons/node-red/aarch64:19.0.2
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage 
-ghcr.io/home-assistant/aarch64-hassio-cli:2024.09.0
+ghcr.io/home-assistant/aarch64-hassio-cli:2025.02.0
 ghcr.io/hassio-addons/adguard/aarch64:5.1.4
-ghcr.io/home-assistant/aarch64-hassio-dns:2024.12.0
+ghcr.io/home-assistant/aarch64-hassio-dns:2025.02.0
 ghcr.io/home-assistant/aarch64-hassio-multicast:2024.03.0
 ghcr.io/home-assistant/aarch64-hassio-audio:2023.12.0
 ghcr.io/home-assistant/aarch64-hassio-observer:2023.06.0
