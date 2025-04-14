@@ -2,8 +2,8 @@
 homeassistant/aarch64-addon-ssh:9.16.0
 homeassistant/aarch64-addon-matter-server:7.0.0
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.03.3
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.3.4
---platform linux/arm64 ghcr.io/music-assistant/server:2.5.0b1
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.4.2
+--platform linux/arm64 ghcr.io/music-assistant/server:2.6.0b3
 rustdesk/rustdesk-server:latest
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 --platform linux/arm64 2fauth/2fauth:4.2.4
@@ -19,8 +19,8 @@ ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage
 ghcr.io/home-assistant/aarch64-hassio-cli:2025.02.0
 ghcr.io/hassio-addons/adguard/aarch64:5.1.4
 ghcr.io/home-assistant/aarch64-hassio-dns:2025.02.0
-ghcr.io/home-assistant/aarch64-hassio-multicast:2024.03.0
-ghcr.io/home-assistant/aarch64-hassio-audio:2023.12.0
-ghcr.io/home-assistant/aarch64-hassio-observer:2023.06.0
+ghcr.io/home-assistant/aarch64-hassio-multicast:2025.02.0
+ghcr.io/home-assistant/aarch64-hassio-audio:2025.02.0
+ghcr.io/home-assistant/aarch64-hassio-observer:2025.02.0
 
 
