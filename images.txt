@@ -7,7 +7,7 @@ ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.6.0
 rustdesk/rustdesk-server:latest
 --platform linux/arm64 haroldli/xiaoya-tvbox:latest
 --platform linux/arm64 2fauth/2fauth:4.2.4
---platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.15.0-beta7-rk
+--platform linux/arm64 ghcr.io/blakeblackshear/frigate:0.16.0-beta3-rk
 --platform linux/arm64 nyanmisaka/jellyfin:latest-rockchip
 homeassistant/aarch64-addon-mariadb:2.7.2
 --platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:2.6.0-115
