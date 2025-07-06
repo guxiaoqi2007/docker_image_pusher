@@ -1,5 +1,5 @@
 ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.7.0
---platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.0
+--platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.1
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.06.2
 ghcr.io/home-assistant/aarch64-hassio-cli:2025.06.0
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:2.3.0-1
