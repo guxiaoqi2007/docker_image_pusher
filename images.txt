@@ -1,7 +1,7 @@
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.12.1
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.9.1
 homeassistant/aarch64-addon-nginx_proxy:3.13.0
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.1
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.07.1
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.08.3
 ghcr.io/home-assistant/aarch64-hassio-cli:2025.06.0
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:2.3.0-1
 homeassistant/aarch64-addon-ssh:9.17.0
