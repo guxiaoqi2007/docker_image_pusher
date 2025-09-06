@@ -2,7 +2,7 @@ ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.9.1
 homeassistant/aarch64-addon-nginx_proxy:3.13.0
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.1
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.08.3
-ghcr.io/home-assistant/aarch64-hassio-cli:2025.06.0
+ghcr.io/home-assistant/aarch64-hassio-cli:2025.08.1
 --platform linux/arm64 zigbee2mqtt/zigbee2mqtt-aarch64:2.3.0-1
 homeassistant/aarch64-addon-ssh:9.17.0
 homeassistant/aarch64-addon-matter-server:8.0.0
@@ -20,9 +20,9 @@ ghcr.io/hassio-addons/node-red/aarch64:19.0.2
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage 
 ghcr.io/hassio-addons/adguard/aarch64:5.2.9
-ghcr.io/home-assistant/aarch64-hassio-dns:2025.02.0
-ghcr.io/home-assistant/aarch64-hassio-multicast:2025.02.0
-ghcr.io/home-assistant/aarch64-hassio-audio:2025.02.0
+ghcr.io/home-assistant/aarch64-hassio-dns:2025.08.0
+ghcr.io/home-assistant/aarch64-hassio-multicast:2025.08.0
+ghcr.io/home-assistant/aarch64-hassio-audio:2025.08.0
 ghcr.io/home-assistant/aarch64-hassio-observer:2025.02.0
 
 
