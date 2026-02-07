@@ -1,4 +1,4 @@
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2026.1.3
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2026.2.1
 homeassistant/aarch64-addon-nginx_proxy:3.13.0
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.1
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2026.01.1
@@ -16,7 +16,7 @@ homeassistant/aarch64-addon-mariadb:2.7.2
 --platform linux/arm64 ghcr.io/t0bst4r/matterbridge-home-assistant-addon/aarch64:2.6.0-115
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.0
 ailg/alist:latest
-ghcr.io/hassio-addons/node-red/aarch64:20.2.2
+ghcr.io/hassio-addons/node-red/aarch64:20.2.4
 xiaoyaliu/glue:latest
 ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage 
 ghcr.io/hassio-addons/adguard/aarch64:5.2.9
