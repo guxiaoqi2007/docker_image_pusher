@@ -1,10 +1,10 @@
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2026.2.2
-ghcr.io/home-assistant/aarch64-hassio-dns:2026.02.0
-ghcr.io/home-assistant/aarch64-hassio-multicast:2026.02.0
-ghcr.io/home-assistant/aarch64-hassio-audio:2026.02.0
-ghcr.io/home-assistant/aarch64-hassio-observer:2026.02.0
-ghcr.io/home-assistant/aarch64-hassio-cli:2026.02.0
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2026.02.2
+--platform linux/arm64 ghcr.io/home-assistant/qemuarm-64-homeassistant:2026.2.2
+--platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-dns:2026.02.0
+--platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-multicast:2026.02.0
+--platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-audio:2026.02.0
+--platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-observer:2026.02.0
+--platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-cli:2026.02.0
+--platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-supervisor:2026.02.2
 homeassistant/aarch64-addon-nginx_proxy:3.13.0
 --platform linux/arm64 homeassistant/aarch64-addon-mosquitto:6.5.1
 
