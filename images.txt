@@ -1,5 +1,7 @@
---platform linux/arm64 ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.4.1
---platform linux/arm64 ghcr.io/home-assistant/qemuarm-64-homeassistant:2023.4.2
+--platform linux/arm64 ghcr.io/koush/scrypted:latest
+--platform linux/arm64 nickfedor/watchtower:latest
+--platform linux/arm64 ghcr.io/home-assistant/qemuarm-64-homeassistant:2026.4.2
+--platform linux/arm64 ghcr.io/home-assistant/qemuarm-64-homeassistant:2026.4.1
 --platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-dns:2026.02.0
 --platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-multicast:2026.02.0
 --platform linux/arm64 ghcr.io/home-assistant/aarch64-hassio-audio:2026.02.0
